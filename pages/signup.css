@@ -1,0 +1,25 @@
+.signup_container{
+    width: 100%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 5rem;
+}
+
+.signup_card{
+    width: 25rem;
+    padding: 1rem;
+    height: 25rem;
+    border: 1px solid #ccc
+}
+.signup_input{
+    height: 3rem;
+    outline: none;
+    width: 100%;
+    font-size: large;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
